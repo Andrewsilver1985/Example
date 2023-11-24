@@ -12,3 +12,4 @@ D:\GeekBrain\Examples\Examle_001HelloConsol\obj\Debug\net8.0\refint\Examle_001He
 D:\GeekBrain\Examples\Examle_001HelloConsol\obj\Debug\net8.0\Examle_001HelloConsol.pdb
 D:\GeekBrain\Examples\Examle_001HelloConsol\obj\Debug\net8.0\Examle_001HelloConsol.genruntimeconfig.cache
 D:\GeekBrain\Examples\Examle_001HelloConsol\obj\Debug\net8.0\ref\Examle_001HelloConsol.dll
+D:\GeekBrain\Examples\Examle_001HelloConsol\obj\Debug\net8.0\Examle_001HelloConsol.sourcelink.json
